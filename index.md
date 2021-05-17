@@ -32,7 +32,62 @@ Bedartha leads the independent research group "Machine Learning in Climate Scien
 # Outline
 
 
+### Part I (40 mn). Introduction to Data and ML Challenges for Sustainable Development Applications 
+```
+presented by Laure Berti-Equille
+
+```
+The tutorial will start with an introductory overview of the relevant concepts and methods in Data Analytics and Machine Learning applied to Sustainable Development (SD) with a SWOT analysis. We will explore the use of data science and ML techniques as tools to integrate multi-modal, multi-source data and human multidisciplinary expertise. 
+
+We will reformulate a set of SD-related questions into formal ML problem statements and present some illustrative examples and real-world study cases from  various application domains related to climate action, clean and sustainable energy, and biodiversity conservation \citep{nature20}. We will provide an overview of the opportunities and limitations, alongside with computational, technical, and operational challenges associated with ML applied to sustainability development. 
+
+Next, we will present the main challenges and survey significant   contributions from the literature related to ML applied to SD and articulating the presentation on the following generic pipeline: 
+1. Understand  the input and validation data, actors, and the target SD goal; 
+2. Collect, integrate, and prepare multi-source and multi-modal data sets; 
+3. Select features, ML models/architectures, and parameters; 
+4. Include multidisciplinary expertise with  Human-In-the-Loop (HIL) and user interaction; and 
+5. Validate and evaluate the actionability, transferability, and reproductibility of the pipeline to other SD settings. 
+
+We  acknowledge that this is a rich topic with numerous interesting and unsolved problems.  However, our goal is to draw attention to a different class of problems that match naturally a core expertise of the KDD community:  analyzing, modeling, enriching, validating, and debugging data to serve an actionable SD goal and sustainability science more broadly. 
+
+To be more specific, the next parts of the tutorial will focus on three specific SDG-related applications of ML: 
+1. Exploiting Earth Observation data and satellite imagery to estimate poverty \citep{jarry2020,elvidge_global_2009,kondmanmeasuring2020} related to SDG \#1 No Poverty; 
+2. Machine learning based climate data analytics related to SDG \#13 Climate Action; and 
+3. ML-based monitoring for forest and biodiversity conservation related to SDG \#15 Life on Land.
+
+
+### Part II (40 mn). Using ML and satellite imagery to estimate poverty 
+```
+presented by Stefano Ermon}
+```
+
+Recent technological developments are creating new data streams that contain a wealth of information relevant to sustainable development goals. Modern AI techniques have the potential to yield accurate, inexpensive, and highly scalable models to inform research and policy. 
+
+A key challenge, however, is the lack of large quantities of labeled data that often characterize successful machine learning applications. 
+  We will present new approaches for learning useful spatio-temporal models in contexts where labeled training data is scarce or not available at all. 
+ 
+ We will show applications to predict and map poverty in developing countries, monitor agricultural productivity and food security outcomes, and map infrastructure access in Africa. The proposed methods can reliably predict economic well-being using only high-resolution satellite imagery. Because images are passively collected in every corner of the world, the methods can provide timely and accurate measurements in a very scalable end economic way, and could revolutionize efforts towards global poverty eradication.
+
+### Part III (40 mn). ML-based climate data analytics
+```
+prensented by Bedartha Goswami
+```
+
+Next, we will present an overview of different machine learning based approaches that have been used in climate data analysis. It is divided into two parts: recent climate data analysis and paleoclimate data analysis. 
+
+In the first part, we will look at classical approaches such as principal component analysis (PCA) along with its nonlinear extensions, which include kernel based methods as well as autoencoder based approaches. We will also discuss correlation-based hierarchical clustering as an alternative to PCA for identifying a lower dimensional representation of spatio-temporal climate data sets. This will be followed by an introduction to climate networks, a sparse representation of functional relations between spatially distributed climate time series, and we will look at how climate networks have been used to detect, quantify, and predict complex climate phenomena. 
+
+In the second part, we will introduce the fundamental paradigm of paleoclimate proxy measurements and the challenges that arise due to dating uncertainties. We will present a Bayesian estimation approach of paleo-proxy uncertainties and its numerical approximation. This will allow us to formulate a new representation of time series, as a sequence of probability density functions (PDFs) in lieu of point-like measurements. Finally, we will use the time series as PDF sequence representation to show how recurrence plots can be used to detect abrupt transitions in time series with uncertainties.
+
+
+### Part IV (20 mn). Utilizing ML to help restore the natural world 
+```
+presented by David Dao
+```
+Land use and land use change play a critical role in our climate  taking up about a quarter of annual anthropogenic emissions of greenhouse gases (GHGs) during 2007-2016.  In addition to being a key driver of global warming, careless land use is also destroying valuable ecosystem services and is threatening the livelihood for local populations and a multitude of species. Major conservation and restoration efforts are underway to mitigate and safeguard against these losses, and to highlight the urgency of the issue, 2021-2030 has been declared the “UN Decade on Ecosystem Restoration”. However, we cannot preserve what we cannot measure. Machine learning (ML) plays a significant role in responding to this critical call for action and can accelerate the conservation and sustainable use of our natural world. We will first present the background on the importance of the natural world on climate change and the current biodiversity crisis. Next, we will give an overview of current MRV (monitoring, reporting and verification) pipelines and present a case study of how AI and ML can fit into and scale the existing MRV pipelines.
+  
+
 
 # Slides
 
-The slides for the tutorial are available here.
+The slides for the tutorial are available [here]().

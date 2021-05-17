@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: [Challenges in KDD and ML for Sustainable Development]
 description: [Laure Berti-Equille - David Dao - Stefano Ermon - Bedartha Goswami]
+github:
+  is_project_page: false

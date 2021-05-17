@@ -1,5 +1,6 @@
-# Challenges in KDD and ML for Sustainable Development
-
+# Venue
+KDD2021 Virtual Conference
+14th-18th August 2021
 
 
 # Summary
@@ -34,3 +35,4 @@ Bedartha leads the independent research group "Machine Learning in Climate Scien
 
 # Slides
 
+The slides for the tutorial are available here.

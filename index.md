@@ -16,7 +16,7 @@ Finally, we will highlight current challenges that need to be addressed to trans
 # Speakers
 
 ### [Laure Berti-Equille](https://pageperso.lis-lab.fr/~laure.berti/) 
-![drawing](./laure.jpeg =100x20 "Laure Berti-Equille")
+![drawing](./Laure.jpg =100x20 "Laure Berti-Equille")
 
 Laure is a Research Director in Computer Science at IRD, the French Institute of interdisciplinary Research on Sustainability Science (since 2011) where she leads a research group. Created in 1943, IRD has been working on sustainability research on the field and with close partnerships with the main actors of developing countries.  Before, Laure was a full Professor in CS at Aix-Marseille University (AMU) in France (2017-2018). From 2014-2017, she was a Senior Scientist of Qatar Computing Research Institute. From 2000-2010, she was a tenured Associate Professor in CS at University of Rennes 1 in France, and a 2-years visiting researcher at AT\&T Labs Research in New Jersey, USA, as a recipient of the prestigious European Marie Curie Outgoing Fellowship (2007-2009). Her research work is at the intersection of large-scale data analytics and machine learning with a focus on data quality, data cleaning and preparation, and research applied to SDGs supported by many collaborations with industries and more than 80 publications and three monographs.  
 

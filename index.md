@@ -1,7 +1,9 @@
 # Venue
 KDD2021 Virtual Conference
-14th-18th August 2021
-
+Sunday August 15, 12am-3am (Singapore)
+Saturday August 14,  6pm-9pm (Paris)
+Saturday August 14,  12pm-3pm (New York)
+Saturday August 14,  9am-12pm (Los Angeles)
 
 # Summary
 
@@ -40,7 +42,7 @@ Bedartha leads the independent research group "Machine Learning in Climate Scien
 # Outline
 
 
-### Part I (40 mn). Introduction to Data and ML Challenges for Sustainable Development Applications 
+### Part I (30 mn). Introduction to Data and ML Challenges for Sustainable Development Applications 
 
 The tutorial will start with an introductory overview of the relevant concepts and methods in Data Analytics and Machine Learning applied to Sustainable Development (SD) with a SWOT analysis. We will explore the use of data science and ML techniques as tools to integrate multi-modal, multi-source data and human multidisciplinary expertise. 
 
@@ -80,7 +82,7 @@ In the first part, we will look at classical approaches such as principal compon
 In the second part, we will introduce the fundamental paradigm of paleoclimate proxy measurements and the challenges that arise due to dating uncertainties. We will present a Bayesian estimation approach of paleo-proxy uncertainties and its numerical approximation. This will allow us to formulate a new representation of time series, as a sequence of probability density functions (PDFs) in lieu of point-like measurements. Finally, we will use the time series as PDF sequence representation to show how recurrence plots can be used to detect abrupt transitions in time series with uncertainties.
 
 
-### Part IV (20 mn). Utilizing ML to help restore the natural world 
+### Part IV (30 mn). Utilizing ML to help restore the natural world 
 
 Land use and land use change play a critical role in our climate  taking up about a quarter of annual anthropogenic emissions of greenhouse gases (GHGs) during 2007-2016.  In addition to being a key driver of global warming, careless land use is also destroying valuable ecosystem services and is threatening the livelihood for local populations and a multitude of species. Major conservation and restoration efforts are underway to mitigate and safeguard against these losses, and to highlight the urgency of the issue, 2021-2030 has been declared the “UN Decade on Ecosystem Restoration”. However, we cannot preserve what we cannot measure. Machine learning (ML) plays a significant role in responding to this critical call for action and can accelerate the conservation and sustainable use of our natural world. We will first present the background on the importance of the natural world on climate change and the current biodiversity crisis. Next, we will give an overview of current MRV (monitoring, reporting and verification) pipelines and present a case study of how AI and ML can fit into and scale the existing MRV pipelines.
 

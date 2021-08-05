@@ -1,9 +1,10 @@
 # Venue
 KDD2021 Virtual Conference
-Sunday August 15, 12am-3am (Singapore)
-Saturday August 14,  6pm-9pm (Paris)
-Saturday August 14,  12pm-3pm (New York)
-Saturday August 14,  9am-12pm (Los Angeles)
+
+- Sunday August 15, 12am-3am (Singapore)
+- Saturday August 14,  6pm-9pm (Paris)
+- Saturday August 14,  12pm-3pm (New York)
+- Saturday August 14,  9am-12pm (Los Angeles)
 
 # Summary
 
@@ -70,7 +71,7 @@ Recent technological developments are creating new data streams that contain a w
 A key challenge, however, is the lack of large quantities of labeled data that often characterize successful machine learning applications. 
   We will present new approaches for learning useful spatio-temporal models in contexts where labeled training data is scarce or not available at all. 
  
- We will show applications to predict and map poverty in developing countries, monitor agricultural productivity and food security outcomes, and map infrastructure access in Africa. The proposed methods can reliably predict economic well-being using only high-resolution satellite imagery. Because images are passively collected in every corner of the world, the methods can provide timely and accurate measurements in a very scalable end economic way, and could revolutionize efforts towards global poverty eradication.
+We will show applications to predict and map poverty in developing countries, monitor agricultural productivity and food security outcomes, and map infrastructure access in Africa. The proposed methods can reliably predict economic well-being using only high-resolution satellite imagery. Because images are passively collected in every corner of the world, the methods can provide timely and accurate measurements in a very scalable end economic way, and could revolutionize efforts towards global poverty eradication.
 
 
 ### Part III (40 mn). ML-based climate data analytics

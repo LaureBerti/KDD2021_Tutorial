@@ -1,5 +1,7 @@
+#Challenges in KDD and ML for Sustainable Development
+
 # Venue
-KDD2021 Virtual Conference
+KDD2021 Tutorial Virtual Conference
 
 - Sunday August 15, 12am-3am (Singapore)
 - Saturday August 14,  6pm-9pm (Paris)

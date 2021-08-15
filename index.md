@@ -46,6 +46,8 @@ Bedartha leads the independent research group "Machine Learning in Climate Scien
 
 
 ### Part I (30 mn). Introduction to Data and ML Challenges for Sustainable Development Applications 
+## [Slides](part1_tutorial.pdf)
+## [Recording](part1_tutorial.mp4)
 
 The tutorial will start with an introductory overview of the relevant concepts and methods in Data Analytics and Machine Learning applied to Sustainable Development (SD) with a SWOT analysis. We will explore the use of data science and ML techniques as tools to integrate multi-modal, multi-source data and human multidisciplinary expertise. 
 
@@ -67,6 +69,8 @@ To be more specific, the next parts of the tutorial will focus on three specific
 
 
 ### Part II (40 mn). Using ML and satellite imagery to estimate poverty 
+## [Slides](part2_tutorial.pdf)
+## [Recording](part2_tutorial.mp4)
 
 Recent technological developments are creating new data streams that contain a wealth of information relevant to sustainable development goals. Modern AI techniques have the potential to yield accurate, inexpensive, and highly scalable models to inform research and policy. 
 
@@ -77,6 +81,8 @@ We will show applications to predict and map poverty in developing countries, mo
 
 
 ### Part III (40 mn). ML-based climate data analytics
+## [Slides](part3_tutorial.pdf)
+## [Recording](part3_tutorial.mp4)
 
 Next, we will present an overview of different machine learning based approaches that have been used in climate data analysis. It is divided into two parts: recent climate data analysis and paleoclimate data analysis. 
 
@@ -86,10 +92,9 @@ In the second part, we will introduce the fundamental paradigm of paleoclimate p
 
 
 ### Part IV (30 mn). Utilizing ML to help restore the natural world 
+## [Slides](part4_tutorial.pdf)
+## [Recording](part4_tutorial.mp4)
 
 Land use and land use change play a critical role in our climate  taking up about a quarter of annual anthropogenic emissions of greenhouse gases (GHGs) during 2007-2016.  In addition to being a key driver of global warming, careless land use is also destroying valuable ecosystem services and is threatening the livelihood for local populations and a multitude of species. Major conservation and restoration efforts are underway to mitigate and safeguard against these losses, and to highlight the urgency of the issue, 2021-2030 has been declared the “UN Decade on Ecosystem Restoration”. However, we cannot preserve what we cannot measure. Machine learning (ML) plays a significant role in responding to this critical call for action and can accelerate the conservation and sustainable use of our natural world. We will first present the background on the importance of the natural world on climate change and the current biodiversity crisis. Next, we will give an overview of current MRV (monitoring, reporting and verification) pipelines and present a case study of how AI and ML can fit into and scale the existing MRV pipelines.
 
 
-# Slides
-
-The slides for the tutorial are available [here]().

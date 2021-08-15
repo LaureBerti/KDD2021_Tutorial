@@ -1,19 +1,10 @@
 #  Challenges in KDD and ML for Sustainable Development
 
-## Venue
-KDD2021 Tutorial Virtual Conference
-
-- Sunday August 15, 12am-3am (Singapore)
-- Saturday August 14,  6pm-9pm (Paris)
-- Saturday August 14,  12pm-3pm (New York)
-- Saturday August 14,  9am-12pm (Los Angeles)
-
-# [Cite](https://dl.acm.org/doi/10.1145/3447548.3470798?sid=SCITRUS)
-
 Laure Berti-Equille, David Dao, Stefano Ermon, and Bedharta Goswami. 2021. Challenges in KDD and ML for Sustainable Development. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD '21). Association for Computing Machinery, New York, NY, USA, 4031–4032. DOI:https://doi.org/10.1145/3447548.3470798
+[cite](https://dl.acm.org/doi/10.1145/3447548.3470798?sid=SCITRUS)
+[pdf](https://dl.acm.org/doi/pdf/10.1145/3447548.3470798)
 
-
-# Summary [pdf](https://dl.acm.org/doi/pdf/10.1145/3447548.3470798)
+# Summary 
 
 Artificial Intelligence and machine learning techniques can offer powerful tools for addressing the greatest challenges facing humanity and helping society adapt to a rapidly changing climate, respond to disasters and pandemic crisis, and ultimately reach the United Nations (UN) Sustainable Development Goals (SDGs) by 2030.  In recent approaches for mitigation and adaptation, data analytics and ML are only one part of the solution that requires interdisciplinary and methodological research and innovations. 
  

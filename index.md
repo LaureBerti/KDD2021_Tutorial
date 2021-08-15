@@ -18,28 +18,6 @@ Artificial Intelligence and machine learning techniques can offer powerful tools
  This tutorial will survey the recent and significant contributions in ML across domain areas and scenarios of understanding and promoting sustainable development and we will present cross-cutting approaches and some lessons learned so far. 
 Finally, we will highlight current challenges that need to be addressed to transform and better equip engaged sustainability science with robust ML-based tools to support actionable  decision-making. 
 
-# Speakers
-
-### [Laure Berti-Equille](https://pageperso.lis-lab.fr/~laure.berti/) 
-!["Laure Berti-Equille"](Laure.jpg){:height="170px" }
-
-Laure is a Research Director in Computer Science at IRD, the French Institute of interdisciplinary Research on Sustainability Science (since 2011) where she leads a research group. Created in 1943, IRD has been working on sustainability research on the field and with close partnerships with the main actors of developing countries.  Before, Laure was a full Professor in CS at Aix-Marseille University (AMU) in France (2017-2018). From 2014-2017, she was a Senior Scientist of Qatar Computing Research Institute. From 2000-2010, she was a tenured Associate Professor in CS at University of Rennes 1 in France, and a 2-years visiting researcher at AT&amp;T Labs Research in New Jersey, USA, as a recipient of the prestigious European Marie Curie Outgoing Fellowship (2007-2009). Her research work is at the intersection of large-scale data analytics and machine learning with a focus on data quality, data cleaning and preparation, and research applied to SDGs supported by many collaborations with industries and more than 80 publications and three monographs.  
-
-### [David Dao](https://daviddao.org/)
-!["David Dao"](david.jpeg){:height="150px" }
-
-David is a PhD student in Computer Science at ETH Zurich and founder of GainForest, a non-profit developing decentralized technology to reverse deforestation with pilot projects in South America and South-East Asia. His research focuses on the deployment of novel machine learning systems for nature and he collaborates with the United Nations and the Government of Chile. His research has been supported by multiple Microsoft AI for Earth grants and fellowships at UC Berkeley and Oasis Labs. David served as co-organizer of the "Tackling Climate Change with ML" workshop at ICLR2020 and the EcoPaDL workshop at ICML2020, as well as the lead organizer for the "Tackling Climate Change with ML" workshop at NeurIPS2020, and is a core member of Climate Change AI, a Global Shaper at World Economic Forum and a Climate Leader at Climate Reality. He is a former researcher at UC Berkeley and Stanford University.
-
-### [Stefano Ermon](https://cs.stanford.edu/~ermon/)
-!["Stefano Ermon"](https://cs.stanford.edu/~ermon/IMG_8217_s_1.jpg){:height="200px" }
-
-Stefano is an Assistant Professor of Computer Science in the CS Department at Stanford University, where he is affiliated with the Artificial Intelligence Laboratory and a fellow of the Woods Institute for the Environment. His research is centered on techniques for probabilistic modeling of data and is motivated by applications in the emerging field of computational sustainability. He has won several awards, including four Best Paper Awards (AAAI, UAI and CP), a NSF Career Award, ONR and AFOSR Young Investigator Awards, a Sony Faculty Innovation Award, a Hellman Faculty Fellowship, Microsoft Research Fellowship, Sloan Fellowship, and the IJCAI Computers and Thought Award. Stefano earned his Ph.D. in Computer Science at Cornell University in 2015.
-
-
-### [Bedartha Goswami](https://machineclimate.de/people/goswami/)
-!["Bedartha Goswami"](bedartha.jpg){:height="150px" }
-
-Bedartha leads the independent research group "Machine Learning in Climate Science," established in January 2020 within the Cluster of Excellence “Machine Learning” at the University of Tübingen. The group aims to extend and develop machine learning tools and techniques to quantify and unravel complex climate systems. Bedartha has previously worked at the Potsdam Institute for Climate Impact Research (PIK) with Dr. Norbert Marwan and Prof. Dr. Dr. h.c. Jürgen Kurths, and at the Institute of Geosciences, University of Potsdam with Prof. Dr. Bodo Bookhagen. Bedartha is an experienced researcher on uncertainties in climate and paleoclimate data sets, classical statistics, machine learning, nonlinear time series analysis, and complex networks.
 
 
 # Outline
@@ -88,5 +66,29 @@ In the second part, we will introduce the fundamental paradigm of paleoclimate p
 ### Part IV (30 mn). Utilizing ML to help restore the natural world: [[Slides]](part4_tutorial.pdf) and [[Recording]](part4_tutorial.mp4)
 
 Land use and land use change play a critical role in our climate  taking up about a quarter of annual anthropogenic emissions of greenhouse gases (GHGs) during 2007-2016.  In addition to being a key driver of global warming, careless land use is also destroying valuable ecosystem services and is threatening the livelihood for local populations and a multitude of species. Major conservation and restoration efforts are underway to mitigate and safeguard against these losses, and to highlight the urgency of the issue, 2021-2030 has been declared the “UN Decade on Ecosystem Restoration”. However, we cannot preserve what we cannot measure. Machine learning (ML) plays a significant role in responding to this critical call for action and can accelerate the conservation and sustainable use of our natural world. We will first present the background on the importance of the natural world on climate change and the current biodiversity crisis. Next, we will give an overview of current MRV (monitoring, reporting and verification) pipelines and present a case study of how AI and ML can fit into and scale the existing MRV pipelines.
+
+
+# Speakers
+
+### [Laure Berti-Equille](https://pageperso.lis-lab.fr/~laure.berti/) 
+!["Laure Berti-Equille"](Laure.jpg){:height="170px" }
+
+Laure is a Research Director in Computer Science at IRD, the French Institute of interdisciplinary Research on Sustainability Science (since 2011) where she leads a research group. Created in 1943, IRD has been working on sustainability research on the field and with close partnerships with the main actors of developing countries.  Before, Laure was a full Professor in CS at Aix-Marseille University (AMU) in France (2017-2018). From 2014-2017, she was a Senior Scientist of Qatar Computing Research Institute. From 2000-2010, she was a tenured Associate Professor in CS at University of Rennes 1 in France, and a 2-years visiting researcher at AT&amp;T Labs Research in New Jersey, USA, as a recipient of the prestigious European Marie Curie Outgoing Fellowship (2007-2009). Her research work is at the intersection of large-scale data analytics and machine learning with a focus on data quality, data cleaning and preparation, and research applied to SDGs supported by many collaborations with industries and more than 80 publications and three monographs.  
+
+### [David Dao](https://daviddao.org/)
+!["David Dao"](david.jpeg){:height="150px" }
+
+David is a PhD student in Computer Science at ETH Zurich and founder of GainForest, a non-profit developing decentralized technology to reverse deforestation with pilot projects in South America and South-East Asia. His research focuses on the deployment of novel machine learning systems for nature and he collaborates with the United Nations and the Government of Chile. His research has been supported by multiple Microsoft AI for Earth grants and fellowships at UC Berkeley and Oasis Labs. David served as co-organizer of the "Tackling Climate Change with ML" workshop at ICLR2020 and the EcoPaDL workshop at ICML2020, as well as the lead organizer for the "Tackling Climate Change with ML" workshop at NeurIPS2020, and is a core member of Climate Change AI, a Global Shaper at World Economic Forum and a Climate Leader at Climate Reality. He is a former researcher at UC Berkeley and Stanford University.
+
+### [Stefano Ermon](https://cs.stanford.edu/~ermon/)
+!["Stefano Ermon"](https://cs.stanford.edu/~ermon/IMG_8217_s_1.jpg){:height="200px" }
+
+Stefano is an Assistant Professor of Computer Science in the CS Department at Stanford University, where he is affiliated with the Artificial Intelligence Laboratory and a fellow of the Woods Institute for the Environment. His research is centered on techniques for probabilistic modeling of data and is motivated by applications in the emerging field of computational sustainability. He has won several awards, including four Best Paper Awards (AAAI, UAI and CP), a NSF Career Award, ONR and AFOSR Young Investigator Awards, a Sony Faculty Innovation Award, a Hellman Faculty Fellowship, Microsoft Research Fellowship, Sloan Fellowship, and the IJCAI Computers and Thought Award. Stefano earned his Ph.D. in Computer Science at Cornell University in 2015.
+
+
+### [Bedartha Goswami](https://machineclimate.de/people/goswami/)
+!["Bedartha Goswami"](bedartha.jpg){:height="150px" }
+
+Bedartha leads the independent research group "Machine Learning in Climate Science," established in January 2020 within the Cluster of Excellence “Machine Learning” at the University of Tübingen. The group aims to extend and develop machine learning tools and techniques to quantify and unravel complex climate systems. Bedartha has previously worked at the Potsdam Institute for Climate Impact Research (PIK) with Dr. Norbert Marwan and Prof. Dr. Dr. h.c. Jürgen Kurths, and at the Institute of Geosciences, University of Potsdam with Prof. Dr. Bodo Bookhagen. Bedartha is an experienced researcher on uncertainties in climate and paleoclimate data sets, classical statistics, machine learning, nonlinear time series analysis, and complex networks.
 
 

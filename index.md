@@ -23,7 +23,7 @@ Finally, we will highlight current challenges that need to be addressed to trans
 # Outline
 
 
-### Part I (30 mn). Data Engineering Challenges in Sustainable Development Applications: [[Slides]](part1_tutorial.pdf) and [[Recording]](part1_tutorial.mp4)
+### Part I (30 mn). Data Engineering Challenges in Sustainable Development Applications: [[Slides]](https://drive.google.com/file/d/1RWlx5Dliyt7fpkKBo2eClKYr4isJ9gjk/view?usp=sharing) and [[Recording]](https://drive.google.com/file/d/1PSm8CPHo55HK9qXwayPSKWI31jqrZnDm/view?usp=sharing)
 
 The tutorial will start with an introductory overview of the relevant concepts and methods in Data Analytics and Machine Learning applied to Sustainable Development (SD) with a SWOT analysis. We will explore the use of data science and ML techniques as tools to integrate multi-modal, multi-source data and human multidisciplinary expertise. 
 
@@ -44,7 +44,7 @@ To be more specific, the next parts of the tutorial will focus on three specific
 3. ML-based monitoring for forest and biodiversity conservation related to SDG#15 Life on Land.
 
 
-### Part II (40 mn). Using ML and satellite imagery to estimate poverty: [[Slides]](part2_tutorial.pdf) and [[Recording]](part2_tutorial.mp4)
+### Part II (40 mn). Using ML and satellite imagery to estimate poverty: [[Slides]](https://drive.google.com/file/d/130x7BND7McBgL0LIQ_40n10tvtnNzt68/view?usp=sharing) and [[Recording]](https://drive.google.com/file/d/1CVedGx_ZANNnOoh0mycQd3JSO-YJANmr/view?usp=sharing)
 
 Recent technological developments are creating new data streams that contain a wealth of information relevant to sustainable development goals. Modern AI techniques have the potential to yield accurate, inexpensive, and highly scalable models to inform research and policy. 
 
@@ -54,7 +54,7 @@ A key challenge, however, is the lack of large quantities of labeled data that o
 We will show applications to predict and map poverty in developing countries, monitor agricultural productivity and food security outcomes, and map infrastructure access in Africa. The proposed methods can reliably predict economic well-being using only high-resolution satellite imagery. Because images are passively collected in every corner of the world, the methods can provide timely and accurate measurements in a very scalable end economic way, and could revolutionize efforts towards global poverty eradication.
 
 
-### Part III (40 mn). ML-based climate data analytics: [[Slides]](part3_tutorial.pdf) and [[Recording]](part3_tutorial.mp4)
+### Part III (40 mn). ML-based climate data analytics: [[Slides]](https://drive.google.com/file/d/1gJLzJHJ6f_1AYULKx2NjokO15970Th69/view?usp=sharing) and [[Recording]](https://drive.google.com/file/d/1TfxnRM2yQJ_T04qapQOthcrwSE_wG_P3/view?usp=sharing)
 
 Next, we will present an overview of different machine learning based approaches that have been used in climate data analysis. It is divided into two parts: recent climate data analysis and paleoclimate data analysis. 
 
@@ -63,7 +63,7 @@ In the first part, we will look at classical approaches such as principal compon
 In the second part, we will introduce the fundamental paradigm of paleoclimate proxy measurements and the challenges that arise due to dating uncertainties. We will present a Bayesian estimation approach of paleo-proxy uncertainties and its numerical approximation. This will allow us to formulate a new representation of time series, as a sequence of probability density functions (PDFs) in lieu of point-like measurements. Finally, we will use the time series as PDF sequence representation to show how recurrence plots can be used to detect abrupt transitions in time series with uncertainties.
 
 
-### Part IV (30 mn). Utilizing ML to help restore the natural world: [[Slides]](part4_tutorial.pdf) and [[Recording]](part4_tutorial.mp4)
+### Part IV (30 mn). Utilizing ML to help restore the natural world: [[Slides]](https://drive.google.com/file/d/15CxY6_gYmnUPhqLF0HZHMvBUi5J_9U0w/view?usp=sharing) and [[Recording]](https://drive.google.com/file/d/1SB5JDE6nigoCjw764_vRibQHMQNjFLNK/view?usp=sharing)
 
 Land use and land use change play a critical role in our climate  taking up about a quarter of annual anthropogenic emissions of greenhouse gases (GHGs) during 2007-2016.  In addition to being a key driver of global warming, careless land use is also destroying valuable ecosystem services and is threatening the livelihood for local populations and a multitude of species. Major conservation and restoration efforts are underway to mitigate and safeguard against these losses, and to highlight the urgency of the issue, 2021-2030 has been declared the “UN Decade on Ecosystem Restoration”. However, we cannot preserve what we cannot measure. Machine learning (ML) plays a significant role in responding to this critical call for action and can accelerate the conservation and sustainable use of our natural world. We will first present the background on the importance of the natural world on climate change and the current biodiversity crisis. Next, we will give an overview of current MRV (monitoring, reporting and verification) pipelines and present a case study of how AI and ML can fit into and scale the existing MRV pipelines.
 

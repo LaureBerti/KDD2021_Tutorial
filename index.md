@@ -23,7 +23,7 @@ Finally, we will highlight current challenges that need to be addressed to trans
 # Outline
 
 
-### Part I (30 mn). Introduction to Data and ML Challenges for Sustainable Development Applications: [[Slides]](part1_tutorial.pdf) and [[Recording]](part1_tutorial.mp4)
+### Part I (30 mn). Data Engineering Challenges in Sustainable Development Applications: [[Slides]](part1_tutorial.pdf) and [[Recording]](part1_tutorial.mp4)
 
 The tutorial will start with an introductory overview of the relevant concepts and methods in Data Analytics and Machine Learning applied to Sustainable Development (SD) with a SWOT analysis. We will explore the use of data science and ML techniques as tools to integrate multi-modal, multi-source data and human multidisciplinary expertise. 
 
